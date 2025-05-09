@@ -1,4 +1,4 @@
-# DietarySurveyApp
+# DietarySurveyGUI
 
 A simple Java GUI application that collects personal and dietary information through a survey form and stores the results in a CSV file. This project demonstrates GUI design with Swing, structured form input, and file handling with persistent CSV output. Ideal for learning form-based input, data collection, and file I/O in Java.
 
